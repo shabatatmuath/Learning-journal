@@ -9,7 +9,7 @@ A growth mindset is thebelieve and the trust that our abilities can be developed
 
 **Things don't forget**
 
-1- Don't say~~I can't~~
-2- Keep try in any way and don't give up
-3- The failure is the road to success
+- Don't say~~I can't~~,always you can.
+- Keep try in any way and don't give up.
+- The failure is the road to success.
 
