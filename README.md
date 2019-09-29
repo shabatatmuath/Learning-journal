@@ -13,3 +13,4 @@ A growth mindset is thebelieve and the trust that our abilities can be developed
 - Keep try in any way and don't give up.
 - The failure is the road to success.
 
+![](https://medchatmonday.com/wp-content/uploads/2019/02/growth-mindset.png)
