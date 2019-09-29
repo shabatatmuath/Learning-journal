@@ -1,4 +1,4 @@
-##***growth mindset***
+##***Growth Mindset***
 
 **hello , my name is Mu'ath shabatat and i wan't to talk to you about growth mindset**
  
