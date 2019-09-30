@@ -8,4 +8,5 @@ Thus, “Markdown” is two things:
 that converts the plain text formatting to HTML. See the Syntax page for details pertaining to Markdown’s formatting syntax. You can try it out, right now, using the online Dingus.
 [for more information](https://daringfireball.net/projects/markdown/)
 
-© 2019 GitHub, Inc.
+
+# [BACK](readall.md)
